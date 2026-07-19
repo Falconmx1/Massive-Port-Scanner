@@ -1,0 +1,9 @@
+# Massive Port Scanner - Dependencias
+# =====================================
+# Este proyecto usa únicamente la biblioteca estándar de Python.
+# No requiere librerías externas para su funcionamiento básico.
+#
+# Si en el futuro se añaden dependencias externas, se listarán aquí.
+# Ejemplo:
+# - aiohttp (para peticiones HTTP avanzadas)
+# - colorama (para salida con colores en consola)
